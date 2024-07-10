@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Kariuki</h1>
-<h3 align="center">I'm a seasoned digital marketing professional, WordPress developer &amp; product management.
+<h3 align="center">I'm a seasoned WordPress developer, product manager &amp; digital marketing professional.
   Currently delving into the exciting realm of web app development. Let's collaborate and innovate!</h3> <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="50px">
 
 <p align="left"> <a href="https://twitter.com/davekariuki_" target="blank"><img src="https://img.shields.io/twitter/follow/davekariuki_?logo=twitter&style=for-the-badge" alt="davekariuki_" /></a> </p>
