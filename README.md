@@ -4,9 +4,9 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/davekariuki_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="davekariuki_" height="30" width="40" /></a>
-<a href="https://instagram.com/davelly_kariuki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davelly_kariuki" height="30" width="40" /></a>
-<a href="https://www.behance.net/davellykariuki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="davellykariuki" height="30" width="40" /></a>
+<a href="https://twitter.com/JustKariuki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Just Kariuki" height="30" width="40" /></a>
+<a href="https://www.instagram.com/just.kariuki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Just Kariuki" height="30" width="40" /></a>
+<a href="https://www.behance.net/davekariuki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Dave Kariuki" height="30" width="40" /></a>
 </p>
 </br>
 
