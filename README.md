@@ -10,4 +10,5 @@
 </p>
 </br>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kariukidave&show_icons=true&theme=dark&locale=en" alt="kariukidave" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KariukiDave&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" alt="kariukidave" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KariukiDave&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="kariukidave" /></p>
