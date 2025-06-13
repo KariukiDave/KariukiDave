@@ -10,5 +10,6 @@
 </p>
 </br>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KariukiDave&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&hide=contribs,prs" alt="kariukidave" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KariukiDave&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="kariukidave" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KariukiDave&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&hide=contribs,prs" alt="kariukidave" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KariukiDave&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="kariukidave" />
+</p>
