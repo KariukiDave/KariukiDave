@@ -10,6 +10,6 @@
 </p>
 </br>
 
-<p align="center">&nbsp;<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KariukiDave&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=contribs,prs" alt="kariukidave" />
+<p align="center">&nbsp;<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KariukiDave&rank_icon=github&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=contribs,prs" alt="kariukidave" />
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KariukiDave&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="kariukidave" />
 </p>
