@@ -11,12 +11,12 @@
 <details open>
 <summary><h3>Stats </h3></summary>
     <img alt="Dave's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=KariukiDave&bg_color=RRGGBBAA&title_color=ffffff&color=9f9f9f&line=9f9f9f&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
-	<div align="center" justify-content="space-between">
+	<div>
 	    <img src="https://github-readme-stats.shion.dev/api?username=KariukiDave&rank_icon=github&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
       <img src="https://streak-stats.demolab.com/?user=KariukiDave&theme=dark&hide_border=false"/>
 	</div>
   </br>
-  <div align="center" justify-content="space-between">
+  <div>
 	    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=KariukiDave&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 	</div>
